@@ -8,6 +8,8 @@
 // @author      VasilisThePikachu
 // @updateURL    https://raw.githubusercontent.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/refs/heads/master/GitHub%2520squash%2520reminder.user.js
 // @downloadURL  https://raw.githubusercontent.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/refs/heads/master/GitHub%2520squash%2520reminder.user.js
+// @namespace    https://pikachu.systems
+// @license WTFPL
 // ==/UserScript==
 
 function modifyMergeButton() {
