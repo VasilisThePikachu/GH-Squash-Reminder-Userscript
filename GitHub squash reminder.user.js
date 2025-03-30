@@ -6,8 +6,8 @@
 // @grant    		none
 // @description   	Replaces the button if your current selected merge strategy is a merge commit
 // @author      VasilisThePikachu
-// @updateURL    https://raw.githubusercontent.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/refs/heads/master/GitHub%2520squash%2520reminder.user.js
-// @downloadURL  https://raw.githubusercontent.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/refs/heads/master/GitHub%2520squash%2520reminder.user.js
+// @updateURL    https://github.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/raw/refs/heads/master/GitHub%20squash%20reminder.user.js
+// @downloadURL  https://github.com/VasilisThePikachu/GH-Squash-Reminder-Userscript/raw/refs/heads/master/GitHub%20squash%20reminder.user.js
 // @namespace    https://pikachu.systems
 // @license WTFPL
 // ==/UserScript==
