@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        GitHub squash reminder
-// @include     https://github.com/*/*/pull/*
+// @include     https://github.com/
 // @exclude     none
 // @version     2
 // @grant    		none
