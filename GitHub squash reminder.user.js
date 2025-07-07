@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        GitHub squash reminder
-// @include     https://github.com/
+// @include     https://github.com/*
 // @exclude     none
-// @version     3
+// @version     4
 // @grant    		none
 // @description   	Replaces the button if your current selected merge strategy is a merge commit
 // @author      VasilisThePikachu
